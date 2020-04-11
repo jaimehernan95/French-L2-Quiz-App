@@ -4,18 +4,18 @@ The French Quiz cover grammatical excercises adapted to beginner level who are s
 
 
 ## Iphone
-<img width="964" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/Iphone.png">
+<img width="564" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/Iphone.png">
 
 ## Google
-<img width="964" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/google.png">
+<img width="564" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/google.png">
 
 ## samsumg
-<img width="964" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/google.png">
+<img width="964" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/samsumg.png">
 
-## questions
-<img width="964" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/google.png">
+## Desktop questions
+<img width="964" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/questions.png">
 
-## play
+## Desktop Score play again
 <img width="964" alt="French as second language App " src="https://github.com/jaimehernan95/French-Quiz-React/blob/master/imagesGithub/google.png">
 
 Any sugesstions?
