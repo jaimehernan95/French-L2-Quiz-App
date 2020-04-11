@@ -1,0 +1,127 @@
+/*@import url("https://fonts.googleapis.com/css?family=Raleway");*/
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap");
+
+* {
+  /*font-family: "Raleway", sans-serif;*/
+  font-family: 'Oswald', serif;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet");
+
+/**{
+  font-family: "Press Start 2P", cursive;
+}*/
+
+
+.container {
+  position: all;
+ /* width: 900px;
+  height: 750px;*/
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  padding: 40px;
+  box-sizing: border-box;
+  top: 80px;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+  margin: auto;
+}
+
+.title {
+  position: relative;
+  background-color: rgba(218, 201, 11, 0.92);
+  color: rgb(255, 255, 255);
+  padding: 4px;
+  font-size: 1.5em;
+  border-radius: 10px;
+  text-align: center;
+  text-shadow: 2px 2px 2px black, 0 0 55px blue, 0 0 5px blue;
+}
+.title2 {
+  position: relative;
+  background-color: rgba(30, 120, 200, 0.89);
+  color: rgb(255, 255, 255);
+  padding: 10px;
+  font-size: 1.3em;
+  border-radius: 15px;
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  text-shadow: 2px 1px 2px black, 0 0 100px blue, 0 0 15px white;
+}
+
+.question {
+  font-size: 1.4em;
+  font-weight: bold;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: green;*/
+}
+
+.questionBox {
+  position: relative;
+  border: 3px solid rgba(255, 0, 0, 0.4);
+  margin-top: 15px;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: rgb(250, 250, 250);
+}
+
+.answerBtn {
+  position: relative;
+  padding: 9px;
+  background-color: rgb(250, 151, 37);
+  display: inline-block;
+  margin: 5px;
+  outline: none;
+  border: none;
+  font-size: 1.3em;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  font-family: 'Oswald', sans-serif;
+}
+
+.score-board {
+  position: relative;
+  height: 700px;
+  text-align: center;
+  margin: auto;
+}
+
+.score {
+  position: all;
+  /*width: 1024px;*/
+  font-size: 1em;
+  top: 20px;
+  cursor: pointer;
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  /*text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: green;*/
+  text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+  color: white;
+}
+
+.playBtn {
+  position: absolute;
+  font-size: 1.4em;
+  padding: 10px;
+  top: 100px;
+  background-color: rgb(46, 182, 46);
+  color: rgb(255, 255, 255);
+  /*width: 150px;*/
+  left: 0px;
+  right: 0px;
+  margin: auto;
+  outline: none;
+  cursor: pointer;
+  font-family: 'Press Start 2P', cursive;
+  border-radius: 10px;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  color: white;
+}
+
